@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/FilipeDervelan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipedervelan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedervelan&layout=compact&langs_count=16&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedervelan&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 <div style="display: inline_block">
   <img align="center" alt="filipe-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

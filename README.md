@@ -1,4 +1,4 @@
-### Olá! seja bem vindo ao meu perfil!
+### Hey there! Welcome to my profile!
 
 <div align="center">
   <a href="https://github.com/FilipeDervelan">

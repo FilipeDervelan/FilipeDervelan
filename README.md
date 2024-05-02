@@ -12,7 +12,7 @@
 
   <p>I'm a Junior Developer at Sofa Digital</p>
 
-  <h3>Technologies and tools I'm working with</h3>
+  <h3>I have experience with</h3>
 
   <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />

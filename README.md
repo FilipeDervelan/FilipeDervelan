@@ -2,14 +2,6 @@
   <h1 align="center">Hey there! Welcome to my profile!</h1>
   <h3>My name is Filipe</h3>
 
-  <p>Actually I'm learning</p>
-
-  <ul>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>AWS</li>
-  </ul>
-
   <p>I'm a Junior Developer at Sofa Digital</p>
 
   <h3>I have experience with</h3>

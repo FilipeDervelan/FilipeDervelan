@@ -20,14 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" />
   </div>
-
-  <hr/>
-
-  <div>
-    <a href="https://github.com/FilipeDervelan">
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeDervelan&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=FilipeDervelan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
           
   <hr/>
 
